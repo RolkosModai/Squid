@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/rolka1978/Squid/
+https://raw.githubusercontent.com/Roslandas/Squid/
